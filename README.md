@@ -8,4 +8,4 @@
                   => update with id
                   
 #### validation with joi
-#### catching with try and catch
+#### catching  error with try and catch
